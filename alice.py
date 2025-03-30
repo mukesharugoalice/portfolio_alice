@@ -2,22 +2,27 @@ import streamlit as st
 
 import os
 from zipfile import ZipFile
-
+st.title("My Portfolio")
 # Section: Profile
 with st.expander("Profile"):
     st.header("Profile")
-    # st.image("profile_picture.jpg", caption="Alice Maire Mukesharugo", width=200)
-    st.markdown("""
-    **Name:** Alice Maire Mukesharugo  
-    **Role:** Project Lead  
-    **Background:**  
-    Alice is a passionate advocate for youth empowerment and mental health. With over 5 years of experience in project management and community development, she has successfully led initiatives that bridge skills gaps and promote sustainable employment. Alice holds a degree in Psychology and is committed to creating impactful programs that transform lives.  
+    col1, col2 = st.columns([1, 2])
 
-    **Contact Information:**  
-    - **Email:** alice.mukesharugo@example.com  
-    - **Phone:** +250 123 456 789  
-    - **LinkedIn:** [linkedin.com/in/alice-mukesharugo](https://linkedin.com/in/alice-mukesharugo)  
-    """)
+    with col1:
+        st.image("alice.jpg", caption="Alice Maire Mukesharugo", width=200)
+
+    with col2:
+        st.markdown("""
+        **Name:** Alice Maire Mukesharugo  
+        **Role:** Project Lead  
+        **Background:**  
+        Alice is a passionate advocate for youth empowerment and mental health. With over 5 years of experience in project management and community development, she has successfully led initiatives that bridge skills gaps and promote sustainable employment. Alice holds a degree in Psychology and is committed to creating impactful programs that transform lives.  
+
+        **Contact Information:**  
+        - **Email:** alice.mukesharugo@example.com  
+        - **Phone:** +250 788 415 066  
+        - **LinkedIn:** [linkedin.com/in/mukesharugoalice](https://www.linkedin.com/in/mukesharugoalice-marie-916758270/)  
+        """)
 
 # Section 1: Scoping
 with st.expander("1. Project Scoping"):
