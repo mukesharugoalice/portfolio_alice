@@ -31,47 +31,60 @@ with st.expander("1. Project Scoping"):
     
     st.markdown("""
     **Key Issues Identified:**
-    1. **Youth Unemployment:**  
-       - 21.5% of Rwandan youth (16-30 years old) are unemployed due to a mismatch between their skills and labor market demands.  
-       - Intense competition further exacerbates the issue.  
+    1.I see too many young people in Rwanda struggling to find jobs. 21.5% of youth
+        (16-30 years old) are unemployed because their skills don’t match what the job
+        market needs, and competition is tough.
+  
 
-    2. **Mental Health Challenges:**  
-       - 27.4% of youth (14-25 years old) suffer from anxiety and depression, often worsened by unemployment stress.  
+    2.I also see the mental health struggles they face. 27.4% of youth (14-25 years old)
+        suffer from anxiety and depression, often made worse by the stress of unemployment.
+ 
 
-    3. **Interconnected Problems:**  
-       - Unemployment leads to declining mental health, and poor mental health makes it harder to secure and retain jobs.  
+    3. I know these problems are connected. When young people can’t find work, their
+        mental health declines, and when they struggle mentally, it’s even harder to secure
+        and keep a job
 
-    4. **Cycle of Poverty and Emotional Distress:**  
-       - Without intervention, many youth remain trapped, unable to reach their full potential.  
-
-    **Commitment to Change:**  
-    - I am dedicated to breaking this cycle by addressing both the skills gap and mental health barriers to create lasting opportunities for youth.  
+    4.I believe this creates a cycle of poverty and emotional distress. Without real solutions,
+        many will remain trapped, unable to reach their full potential.
+ 
+    5. I am committed to breaking this cycle. We must tackle both the skills gap and mental
+        health barriers to create lasting opportunities for youth.
+ 
     """)
 
     st.header("Mission")
     st.markdown("""
-    **My Mission:**  
-    I am committed to eradicating youth unemployment in Rwanda through a comprehensive approach that integrates:  
-    - **Skills Training:** Vocational and digital training for market-ready skills.  
-    - **Mental Health Support:** Counseling and resilience-building programs.  
-    - **Opportunity Creation:** Entrepreneurship support to foster self-reliance.  
+    My Mission: I am dedicated to eradicating youth unemployment in Rwanda through a
+        comprehensive approach that integrates tailored training, entrepreneurship support, and
+        mental health services. My project Mindlift, directly tackles the root causes of unemployment
+        by:
 
     **Why Act Now?**  
-    Without intervention, the following risks persist:  
-    - Increased youth poverty.  
-    - Widening gender inequalities (women face double discrimination).  
-    - Long-term societal burdens from untreated mental health issues.  
+     Without intervention, this will: 
+                
+     • Push more youth into extreme poverty
+     • Widen gender inequalities (women face double discrimination)  
+     • Create long-term societal burdens from untreated mental health issues
+                
 
     **Mindlift's Transformational Impact:**  
-    - **Breaking the Cycle:** Equip youth with skills and emotional resilience to overcome unemployment and mental health challenges.  
-    - **Economic Growth:** Increase job placements and business startups, directly reducing unemployment rates.  
-    - **Community Stability:** Foster a healthier, more stable society where young people thrive economically and emotionally.  
+    Impact on My Mission:
+                
+    • I will Break the unemployment-mental health cycle by equipping youth with both skills
+    and emotional resilience.
+                
+    • I will Increase job placements and business startups, directly reducing unemployment
+    rates.
+                
+    • I will Create a healthier, more stable community where young people can thrive
+        economically and emotionally 
+                
     """)
 with st.expander("2. Project Planning"):
     st.markdown("### Summary of Project Planning")
     st.markdown("""
-### **Summary of Document
-**  
+### Summary of Document
+ 
 
 The Mindlift Project aims to empower youth through skills training, mental health support,
 and job placement, with goals including certifying 300 participants annually, improving
