@@ -16,70 +16,75 @@ with st.expander("Profile"):
         **Name:** Alice Maire Mukesharugo  
         **Role:** Project Lead  
         **Background:**  
-        Alice is a passionate advocate for youth empowerment and mental health. With over 5 years of experience in project management and community development, she has successfully led initiatives that bridge skills gaps and promote sustainable employment. Alice holds a degree in Psychology and is committed to creating impactful programs that transform lives.  
+        Mukesharugo Alice is a dedicated and visionary leader with a strong background in entrepreneurial leadership. With her passion for empowering communities and developing innovative solutions, she has actively worked to bring transformative ideas to life. Alice thrives in creating sustainable business models, fostering teamwork, and leading initiatives that positively impact society.  
 
         **Contact Information:**  
-        - **Email:** alice.mukesharugo@example.com  
+        - **Email:** mignonnealoice@gmail.com 
         - **Phone:** +250 788 415 066  
         - **LinkedIn:** [linkedin.com/in/mukesharugoalice](https://www.linkedin.com/in/mukesharugoalice-marie-916758270/)  
         """)
 
 # Section 1: Scoping
 with st.expander("1. Project Scoping"):
+    st.header("1. Problem Statement")
+    st.subheader("Project Name: Mindlift – Elevating Mental Well-being for Entrepreneurship and Employment")
     
-    st.header("1. Project Scoping")
-    st.subheader(""" Project Name: Mindlift – Elevating Mental Well-being for Entrepreneurship and Employment
-            """)
-    
-    st.markdown(""" Mission Statement To  : eradicate youth unemployment in Rwanda by integrating skills training,
-    entrepreneurship support, and mental health services. This project, Mindlift, directly tackles
-    the root causes of unemployment by:
+    st.markdown("""
+    **Key Issues Identified:**
+    1. **Youth Unemployment:**  
+       - 21.5% of Rwandan youth (16-30 years old) are unemployed due to a mismatch between their skills and labor market demands.  
+       - Intense competition further exacerbates the issue.  
 
-    ✓ Skills Gap: Vocational/digital training for market-ready skills  
-    ✓ Mental Health: Counseling and resilience building  
-    ✓ Opportunity Creation: Entrepreneurship support  
+    2. **Mental Health Challenges:**  
+       - 27.4% of youth (14-25 years old) suffer from anxiety and depression, often worsened by unemployment stress.  
 
-    Why We Must Act Now:  
-    Without intervention, this will:  
-    • Push more youth into extreme poverty  
-    • Widen gender inequalities (women face double discrimination)  
-    • Create long-term societal burdens from untreated mental health issues  
+    3. **Interconnected Problems:**  
+       - Unemployment leads to declining mental health, and poor mental health makes it harder to secure and retain jobs.  
 
-    Mindlift's Transformational Impact:  
-    By solving this problem, Mindlift will:  
-    ✔ Break the unemployment-mental health cycle by equipping youth with both skills and
-    emotional resilience.  
-    ✔ Increase job placements and business startups, directly reducing unemployment rates.  
-    ✔ Create a healthier, more stable community where young people can thrive economically
-    and emotionally.  
+    4. **Cycle of Poverty and Emotional Distress:**  
+       - Without intervention, many youth remain trapped, unable to reach their full potential.  
 
-    ---
-    
+    **Commitment to Change:**  
+    - I am dedicated to breaking this cycle by addressing both the skills gap and mental health barriers to create lasting opportunities for youth.  
     """)
 
-    st.header("Problem Statement")
-    st.markdown(""" In Rwanda, 21.5% of youth (16-30 years old) are unemployed, primarily due to a mismatch
-    between their skills and labor market demands, as well as fierce competition for limited jobs.
-    At the same time, 27.4% of youth (14-25 years old) suffer from psychological disorders
-    such as anxiety and depression, often worsened by the stress of unemployment. These two
-    issues feed into each other—unemployment leads to poor mental health, and poor mental
-    health makes it harder to find and keep a job. Without addressing both problems together,
-    efforts to reduce youth unemployment will remain incomplete, trapping young people in
-    cycles of poverty and instability.
-    """)
+    st.header("Mission")
+    st.markdown("""
+    **My Mission:**  
+    I am committed to eradicating youth unemployment in Rwanda through a comprehensive approach that integrates:  
+    - **Skills Training:** Vocational and digital training for market-ready skills.  
+    - **Mental Health Support:** Counseling and resilience-building programs.  
+    - **Opportunity Creation:** Entrepreneurship support to foster self-reliance.  
 
-    
-    # Section 2: Planning
+    **Why Act Now?**  
+    Without intervention, the following risks persist:  
+    - Increased youth poverty.  
+    - Widening gender inequalities (women face double discrimination).  
+    - Long-term societal burdens from untreated mental health issues.  
+
+    **Mindlift's Transformational Impact:**  
+    - **Breaking the Cycle:** Equip youth with skills and emotional resilience to overcome unemployment and mental health challenges.  
+    - **Economic Growth:** Increase job placements and business startups, directly reducing unemployment rates.  
+    - **Community Stability:** Foster a healthier, more stable society where young people thrive economically and emotionally.  
+    """)
 with st.expander("2. Project Planning"):
     st.markdown("### Summary of Project Planning")
     st.markdown("""
-### **Summary of the Mindlift Planning Document**  
+### **Summary of Document
+**  
 
-The **Mindlift Project** aims to empower youth through **skills training, mental health support, and job placement**, with goals including certifying 300 participants annually, improving mental health outcomes, and securing jobs for 65% of graduates within six months. The project also focuses on transforming employer practices and building community networks through alumni chapters.  
-
-Key **project management tools** include WhatsApp for communication, Google Sheets for tracking progress, and Kobo Toolbox for secure data collection. The team comprises roles like Project Lead, Training Coaches, and Peer Mentors, supported by a **budget of $15,000** covering salaries, equipment, and participant support.  
-
-Funding comes from **grants, donations, corporate partnerships, and modest training fees**, ensuring sustainability while addressing youth unemployment and mental health barriers systematically.
+The Mindlift Project aims to empower youth through skills training, mental health support,
+and job placement, with goals including certifying 300 participants annually, improving
+mental health outcomes, and securing jobs for 65% of graduates within six months. The
+project also focuses on transforming employer practices and building community networks
+through alumni chapters.
+My Key project management tools will include WhatsApp for communication, Google Sheets
+for tracking progress, and Kobo Toolbox for secure data collection. My team will comprise
+roles like Project Lead, Training Coaches, and Peer Mentors, and it will be supported by a
+budget of $15,000 covering salaries, equipment, and participant support.
+ Fundings will come from grants, donations, corporate partnerships, and modest training
+fees, ensuring sustainability while addressing youth unemployment and mental health barriers
+systematically.
     """)
     
     try:
